@@ -1,7 +1,7 @@
 title: Choi-Jiwon-38's 
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://choijiwon.38.blog
+url: https://choi-jiwon-38.github.io/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
