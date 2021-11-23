@@ -1,7 +1,7 @@
-title: Long Haul
+title: Choi-Jiwon-38's 
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://long-haul.netlify.app
+url: http://choijiwon.38.blog
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -22,11 +22,10 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: Choi-Jiwon-38
+  instagram: aid_choi
+  facebook: 최지원 
+  email: qwerty_02@kookmin.ac.kr
 
 google_analytics: "UA-58263416-1"
 
