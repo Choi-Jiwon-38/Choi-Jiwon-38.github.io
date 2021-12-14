@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to My GitHub page"
 date:   2021-11-24
+description: Welcome to My GitHub page!
 ---
 
 <p class="intro"><span class="dropcap">H</span>ello, everyone who visited my GitHub page! This page is a monumental page createdby the "Eureka Project".</p>
