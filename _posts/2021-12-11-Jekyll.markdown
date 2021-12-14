@@ -11,6 +11,7 @@ description: About Static Site, Dynamic Site, Jekyll
 
 정적 홈페이지와 반대되는 개념인 동적 홈페이지를 함께 비교하며 설명해볼 것이다. 
 <br><br>
+
 ## 정적 홈페이지란?
 ![](https://images.velog.io/images/aid_choi/post/0e1b6e58-3588-4f8f-a46a-aa72cc91ae59/image.png)
 > 정적 웹 페이지
@@ -19,6 +20,7 @@ description: About Static Site, Dynamic Site, Jekyll
 > - 사용자는 서버에 저장된 데이터가 변경되지 않는 한 고정된 웹 페이지를 보게 됨
 
 <br><br>
+
 ## 동적 홈페이지란?
 ![](https://images.velog.io/images/aid_choi/post/a0d2278f-72e9-4516-ae86-4faa852a6415/image.png)
 
@@ -28,6 +30,7 @@ description: About Static Site, Dynamic Site, Jekyll
 > - 사용자는 상황, 시간, 요청 등에 따라 달라지는 웹 페이지를 보게 됨
 
 <br><br>
+
 ## 정적 vs 동적!
 
 그렇다면 정적 홈페이지와 동적 홈페이지는 어떤 점이 다를까?
@@ -49,6 +52,7 @@ description: About Static Site, Dynamic Site, Jekyll
 	- 느림: 사용자에게 웹 페이지를 전달하기 전 전처리가 필요함
     - 추가 비용: 웹 서버 구축 비용 이외 추가적 처리를 위한 어플리케이션 서버가 필요함
 <br><br>
+
 ## 그렇다면 Jekyll은 무엇일까?
 ![](https://images.velog.io/images/aid_choi/post/524fe552-016a-4352-90e6-0dfa3abd9294/image.png)
 jekyll(이하 지킬)은 웹 사이트 개발 툴이라고 함
