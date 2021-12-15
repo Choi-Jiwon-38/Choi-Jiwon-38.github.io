@@ -3,6 +3,7 @@ layout: post
 title:  "Markdown? 어떻게 쓰는 물건인고"
 date:   2021-12-12
 description: About Markdown
+comments: true
 ---
 ## 서론
  소프트웨어학부의 학부생으로 지내면서 .md나 .markdown이라는 확장자를 여러 곳에서 흔하게 볼 수 있었다. 누구나 쉽게 공감할 수 있는 대표적인 예는 아마 GitHub에서 주로 이용하는 README.md가 아닐까 싶다. 그렇다면 markdown은 무엇을 의미하는 것일까?

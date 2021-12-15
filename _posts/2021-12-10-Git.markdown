@@ -3,6 +3,7 @@ layout: post
 title:  "Git과 GitHub 알아보기"
 date:   2021-12-10
 description: About Git, GitHub, Commands
+comments: true
 ---
 ## 서론
 Git/GitHub, 소프트웨어학부에 진학하기 전에는 한 번도 들어보지 못한

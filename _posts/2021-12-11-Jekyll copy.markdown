@@ -3,6 +3,7 @@ layout: post
 title:  "동적 사이트와 Jekyll"
 date:   2021-12-11
 description: About Static Site, Dynamic Site, Jekyll
+comments: true
 ---
 ## 서론
 학부 수업 시간을 통해 만들게된 GitHub Page는 Jekyll 기반의 정적 홈페이지이다.
