@@ -29,5 +29,7 @@ social:
 
 google_analytics: "G-K6EWZWNW9J"
 
-disqus:
-    shortname: brianmaierjr
+comment:
+  provider: "disqus"
+  disqus:
+    shortname: "Choi-Jiwon-38"
