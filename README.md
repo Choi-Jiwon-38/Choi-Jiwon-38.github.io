@@ -1,5 +1,6 @@
 ## WELCOME TO CHOI-JIWON-38.GITHUB.IO !!!
-<hr>
+
+
 ### 깃 페이지 Build Up 과정
 > 1. Repository(.github.io) 생성하기
 > 2. Jekyll 설치하기
@@ -11,14 +12,16 @@
 > 2. 페이지 내 댓글 기능 구현하기
 > 3. Google Analytics 연동하기
 <hr>
+
 ## 1. Repository(.github.io) 생성하기<br>
 GitHub Page를 만들기 위해서는 GitHub 계정이 필요!<br>
 1학년 1학기 때 생성하였던 GitHub 계정을 그대로 이용함.
 
 GItHub Page를 만드는 방법은 매우 간단함.<br>
-Respository의 이름을 <username.github.io>로 생성!<br>
+Respository의 이름을 `<username.github.io>`로 생성!<br>
 필자의 GitHub username은 'Choi-Jiwon-38'이므로<br>
 Repository의 이름을 Choi-Jiwon-38.github.io로 생성!
+<hr>
 
 ## 2. Jekyll 설치하기
 Ruby 설치사이트 :: https://rubyinstaller.org/downloads/
@@ -34,5 +37,9 @@ Window전용 Ruby + DevKit(개발자 키트) 설치 프로그램을 다운로드
 ```jekyll serve``` 명령어로 지킬을 실행<br>
 
 ## 3. GitHub Pages에 Jekyll theme(long_haul) 적용하기
-Jekyll Themes 사이트   http://jekyllthemes.org/
-                      https://jekyllthemes.io/free
+
+### Jekyll Themes 사이트
+
+1. http://jekyllthemes.org/
+
+2. https://jekyllthemes.io/free
