@@ -78,7 +78,9 @@ https://github.com/brianmaierjr/long-haul <br>
 ## 4. 더미 레이아웃 정리하기 (테마 및 포스트 수정)
 
 <br>
+
 ![image](https://user-images.githubusercontent.com/81795729/146366267-5cb83049-bdd8-43af-863e-855c4b6751f0.png)
+
 <br>
 
 ### _config.yml
@@ -100,6 +102,8 @@ navigation, social 수정 -> 사용하지 않는 social 부분 삭제 및 정보
 <br>
 
 ## 1. 페이지 favicon 변경하기
+
+<br>
 
 ![image](https://user-images.githubusercontent.com/81795729/146392594-33e3277e-75a9-4241-974f-d2c0bd5467a1.png)
 
