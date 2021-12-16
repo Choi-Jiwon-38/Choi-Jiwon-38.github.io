@@ -111,3 +111,30 @@ assets/img 에 'favicon'이라는 이름으로 저장하여 변경할 수 있음
 
 ## 2. 페이지 내 댓글 기능 구현하기
 
+Disqus 공식 홈페이지 :: https://disqus.com
+
+아래 옵션으로 가입해준다
+
+1. `I want to install Disqus on my site` 선택
+
+2. `Website Name` 선택
+
+3. `Category` - `Tech`로 설정
+
+4. `Create Site` 클릭
+
+5. 버전 `Basic` 선택
+
+6. 플랫폼 `Jekyll` 선택
+
+7. Website Name, Website URL(깃허브 페이지) 입력
+
+8. 정책 `Balanced` 선택
+
+9. Universal Embed Code를 부여받고 해당 코드로 코드 수정
+
+![image](https://user-images.githubusercontent.com/81795729/146391198-fafdbcef-5362-41d0-8215-83a0febd70cb.png)
+
+<br>
+
+## 3. 
