@@ -41,5 +41,8 @@ Window전용 Ruby + DevKit(개발자 키트) 설치 프로그램을 다운로드
 ### Jekyll Themes 사이트
 
 1. http://jekyllthemes.org/
+![image](https://user-images.githubusercontent.com/81795729/146298051-98d9ff5a-3970-4b54-8a5b-54328664682d.png)
 
 2. https://jekyllthemes.io/free
+![image](https://user-images.githubusercontent.com/81795729/146298168-d3419392-6fa5-4f96-96ac-7e2d335ebdc9.png)
+
