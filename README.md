@@ -137,4 +137,10 @@ Disqus 공식 홈페이지 :: https://disqus.com
 
 <br>
 
-## 3. 
+## 3. Google Analytics 연동하기
+
+깃허브 페이지에 더욱 자세하게 기술되어 있으므로 아래 링크를 통해 확인 바람!
+
+(선택한 템플릿인 long haul에서는 UA- 형식의 추적 ID가 필요했기에 해당 부분도 같이 적어둠)
+
+### 깃허브 페이지 주소 :: https://choi-jiwon-38.github.io/
