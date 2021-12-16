@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Google 애널리틱스 페이지에 연동하기"
+date:   2021-12-15
+description: About Google analytics with GitHub Page
+comments: true
+---
+
+## 서론
+
+우리가 이용하고 있는 깃허브 페이지를 잘 관리하고 있는지 어떻게 확인할 수 있을까?
+
+많은 방법들이 있겠지만 이번 시간에는 Google 애널리틱스를 이용해보려고 한다.
+
+그렇다면 Google 애널리틱스는 무엇일까?
+
+<br>
+
+## Google 애널리틱스?
+
+![](https://images.velog.io/images/aid_choi/post/db5173a6-3016-44ca-85e1-ad2ec770d41d/image.png)
+
+> 구글 마케팅 플랫폼 브랜드 내의 플랫폼
+> 웹사이트 트래픽을 추적하고 보고하는 구글이 제공하는 웹 애널리틱스 서비스
+
+
+그렇다면 이러한 구글 애널리틱스를 어떻게 우리 깃허브 페이지에 적용할 수 있을까?
+
+아래에서 자세하게 다뤄보도록 할 것이다!
+
+<br>
+
+## Google 애널리틱스 깃허브 페이지에 적용하기!
+
+<br>
+
+#### Google 애널리틱스 공식 홈페이지 주소 : https://analytics.google.com/
+
+<br>
+
+사용하는 Google 계정이 없는 경우, 애널리틱스에 사용할 새로운 계정을 이용!
+
+기존에 사용하는 계정이 있는 경우, 해당 계정으로 사이트에서 로그인하여 이용!
+
+![](https://images.velog.io/images/aid_choi/post/39ab4167-9579-4157-a5a6-e26353c389f3/image.png)
+
+속성 열에서 속성 만들기를 클릭한 뒤
+
+속성 이름 / 시간대 / 통화를 본인에게 맞게 설정해준다
+
+<br>
+
+이때 추적 ID로 G-가 아닌 UA-가 필요한 경우에는 아래를 따른다
+
+(long haul 테마의 경우 UA-가 필요하기 때문에 아래를 따름)
+
+![](https://images.velog.io/images/aid_choi/post/b012fb03-0af1-45a9-965a-2df6dde38cb0/image.png)
+
+고급 옵션 보기를 누른 뒤
+
+유니버설 애널리틱스 속성 만들기 ON
+
+본인의 깃허브 페이지 URL을 복사한 뒤에 붙여넣기
+
+유니버설 애널리틱스 속성만 만들기 클릭!
+
+![](https://images.velog.io/images/aid_choi/post/186aa42d-22bb-4652-9706-9f4286a1e448/image.png)
+
+후에 나오는 비즈니스 정보(업종 / 비즈니스 규모 / 사용계획)은 본인에게 맞게 설정!
+
+위 과정을 다 끝내면 추적 아이디를 얻어낼 수 있음!
+
+얻어낸 추적 아이디를 아래 코드를 바꾸어 작성하는 것으로 완료 가능
+(long haul 템플릿을 기준으로 작성한 점을 유의할 것!)
+
+![](https://images.velog.io/images/aid_choi/post/99eac0b6-fa1c-489f-8a86-be154d56754c/image.png)
+
+_config.yml의 30번째 줄, google_analytics에 해당하는 추적 아이디를 입력
+
+![](https://images.velog.io/images/aid_choi/post/3864af10-7473-46fb-8c77-c0335ffef3e5/image.png)
+
+이렇게 되었다면 깃허브 홈페이지에 구글 애널리틱스 연동 끝~!~!
