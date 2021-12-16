@@ -24,8 +24,7 @@ GitHub Page를 만들기 위해서는 GitHub 계정이 필요!<br>
 GItHub Page를 만드는 방법은 매우 간단함.<br>
 Respository의 이름을 `<username.github.io>`로 생성!<br>
 필자의 GitHub username은 'Choi-Jiwon-38'이므로<br>
-Repository의 이름을 Choi-Jiwon-38.github.io로 생성!
-<hr>
+Repository의 이름을 Choi-Jiwon-38.github.io로 생성!<br>
 
 ## 2. Jekyll 설치하기
 Ruby 설치사이트 :: https://rubyinstaller.org/downloads/
