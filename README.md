@@ -41,8 +41,20 @@ Window전용 Ruby + DevKit(개발자 키트) 설치 프로그램을 다운로드
 ### Jekyll Themes 사이트
 
 1. http://jekyllthemes.org/
-![image](https://user-images.githubusercontent.com/81795729/146298051-98d9ff5a-3970-4b54-8a5b-54328664682d.png)
+![image](https://user-images.githubusercontent.com/81795729/146298051-98d9ff5a-3970-4b54-8a5b-54328664682d.png) <br>
 
 2. https://jekyllthemes.io/free
-![image](https://user-images.githubusercontent.com/81795729/146298168-d3419392-6fa5-4f96-96ac-7e2d335ebdc9.png)
+![image](https://user-images.githubusercontent.com/81795729/146298168-d3419392-6fa5-4f96-96ac-7e2d335ebdc9.png) <br>
 
+위 두 사이트에서 Jekyll 무료 Themes를 확인할 수 있음. <br>
+
+그 중에서 나는 long haul이라는 템플릿을 사용할 예정! <br>
+
+#### Theme :: long haul <br>
+https://github.com/brianmaierjr/long-haul <br>
+
+`git clone`은 원격 저장소에 있는 폴더를 로컬로 가져오는 명령어<br>
+`git clone`을 통해 나의 로컬 디렉토리에 long haul의 리포지토리를 그대로 복사(클론)하여 작업 환경을 마련하였음.
+<br>
+
+## 4. 더미 레이아웃 정리하기 (테마 및 포스트 수정)
