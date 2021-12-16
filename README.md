@@ -140,7 +140,7 @@ Disqus 공식 홈페이지 :: https://disqus.com
 <br>
 
 ## 3. Google Analytics 연동하기
-
+<br><br>
 ![](https://images.velog.io/images/aid_choi/post/3864af10-7473-46fb-8c77-c0335ffef3e5/image.png)
 
 깃허브 페이지에 더욱 자세하게 기술되어 있으므로 아래 링크를 통해 확인 바람!
