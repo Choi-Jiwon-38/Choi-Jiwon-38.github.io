@@ -54,9 +54,11 @@ Window전용 Ruby + DevKit(개발자 키트) 설치 프로그램을 다운로드
 ### Jekyll Themes 사이트
 
 1. http://jekyllthemes.org/ <br>
+
 ![image](https://user-images.githubusercontent.com/81795729/146298051-98d9ff5a-3970-4b54-8a5b-54328664682d.png) <br>
 
 2. https://jekyllthemes.io/free <br>
+
 ![image](https://user-images.githubusercontent.com/81795729/146298168-d3419392-6fa5-4f96-96ac-7e2d335ebdc9.png) <br>
 
 위 두 사이트에서 Jekyll 무료 Themes를 확인할 수 있음. <br>
@@ -138,6 +140,8 @@ Disqus 공식 홈페이지 :: https://disqus.com
 <br>
 
 ## 3. Google Analytics 연동하기
+
+![](https://images.velog.io/images/aid_choi/post/3864af10-7473-46fb-8c77-c0335ffef3e5/image.png)
 
 깃허브 페이지에 더욱 자세하게 기술되어 있으므로 아래 링크를 통해 확인 바람!
 
