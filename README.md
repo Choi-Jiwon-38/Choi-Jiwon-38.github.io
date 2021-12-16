@@ -74,3 +74,39 @@ https://github.com/brianmaierjr/long-haul <br>
 <br><br>
 
 ## 4. 더미 레이아웃 정리하기 (테마 및 포스트 수정)
+
+<br>
+![image](https://user-images.githubusercontent.com/81795729/146366267-5cb83049-bdd8-43af-863e-855c4b6751f0.png)
+<br>
+
+### _config.yml
+
+title 수정 -> 페이지 제목 변경
+
+navigation, social 수정 -> 사용하지 않는 social 부분 삭제 및 정보 수정 <br>
+
+### _includes/header.hmtl
+
+기존 템플릿에 담겨있던 불필요한 header 부분 삭제 -> github와 velog로 변경 <br>
+
+### _posts
+
+기존에 있던 포스트를 전부 삭제한 뒤, `.markdown`으로 새로운 포스트를 만들어 업로드 <br>
+
+<hr>
+<br>
+
+## 1. 페이지 favicon 변경하기
+
+favicon은 무엇일까? favicon은 favorites와 icon의 합성어!
+
+주소창 옆에 표시되는 아이콘을 의미함
+
+구글 이미지에서 원하는 이미지를 찾아서 `.ico` 확장자로 변경한 뒤
+
+assets/img 에 'favicon'이라는 이름으로 저장하여 변경할 수 있음.
+
+<br>
+
+## 2. 페이지 내 댓글 기능 구현하기
+
