@@ -155,3 +155,5 @@ Disqus 공식 홈페이지 :: https://disqus.com
 (선택한 템플릿인 long haul에서는 UA- 형식의 추적 ID가 필요했기에 해당 부분도 같이 적어둠)
 
 ### 깃허브 페이지 주소 :: https://choi-jiwon-38.github.io/
+
+### 애널리틱스 연동 포스트 :: https://choi-jiwon-38.github.io/blog/Google/
