@@ -93,6 +93,7 @@ navigation, social 수정 -> 사용하지 않는 social 부분 삭제 및 정보
 
 기존에 있던 포스트를 전부 삭제한 뒤, `.markdown`으로 새로운 포스트를 만들어 업로드 <br>
 
+<br>
 <hr>
 <br>
 
