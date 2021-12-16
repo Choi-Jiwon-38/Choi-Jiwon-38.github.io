@@ -101,6 +101,9 @@ navigation, social 수정 -> 사용하지 않는 social 부분 삭제 및 정보
 
 ## 1. 페이지 favicon 변경하기
 
+![image](https://user-images.githubusercontent.com/81795729/146392594-33e3277e-75a9-4241-974f-d2c0bd5467a1.png)
+
+
 favicon은 무엇일까? favicon은 favorites와 icon의 합성어!
 
 주소창 옆에 표시되는 아이콘을 의미함
